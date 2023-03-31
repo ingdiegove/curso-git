@@ -1,6 +1,6 @@
 Ing Diego
 
-programador
+programador backend en python
 
 Aquí va un párrafo con negrita, cursiva, subrayado y colores.
 
