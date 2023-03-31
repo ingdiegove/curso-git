@@ -4,6 +4,8 @@ programador backend en python
 
 actualmente estoy realizando un proyecto en Django
 
+el programador soy yo
+
 Aquí va un párrafo con negrita, cursiva, subrayado y colores.
 
 
