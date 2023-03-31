@@ -2,6 +2,8 @@ Ing Diego
 
 programador backend en python
 
+actualmente estoy realizando un proyecto en Django
+
 Aquí va un párrafo con negrita, cursiva, subrayado y colores.
 
 
